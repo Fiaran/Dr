@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Список врачей</string>
+
+    <string-array name="names">
+        <item>Куросаки Ичиго</item>
+        <item>Харуно Сакура</item>
+        <item>Эрвин Смитт</item>
+        <item>Леви Аккерман</item>
+        <item>Шинобу Кочо</item>
+        <item>Саката Гинтоки</item>
+        <item>Гилберт Росс</item>
+        <item>Ханджи Зое</item>
+        <item>Синра Киситани</item>
+        <item>Акихиро Кано</item>
+        <item>Гисукэ Сасаки</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Хирург</item>
+        <item>Травматолог</item>
+        <item>Педиатр</item>
+        <item>Ортопед</item>
+        <item>Оторилоринголог</item>
+        <item>Терапевт</item>
+        <item>Психиатр</item>
+        <item>Дермотолог</item>
+        <item>Кардиолог</item>
+        <item>Онколог</item>
+        <item>Стоматолог</item>
+    </string-array>
+</resources>
